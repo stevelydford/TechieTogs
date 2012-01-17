@@ -5,7 +5,7 @@ TechieTogs is a fully-featured ecommerce app built using ASP.NET WebPages and Mi
 The site was built as the main sample application for the book: [Building ASP.NET Web Pages with Microsoft WebMatrix](http://www.amazon.com/gp/product/1430240202/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=stevelydfordc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430240202](http://www.amazon.com/gp/product/1430240202/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=stevelydfordc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1430240202)
 
 ## Installation ##
-This repository contains all the files you need to run the app. Simply download the ZIP file and open in WebMatrix to run.
+This repository contains all the files you need to run the app. Simply download the ZIP file, extract it to a suitable place and open in WebMatrix to run.
 
 ## Screenshots ##
 
