@@ -31,6 +31,6 @@ This repository contains all the files you need to run the app. Simply download 
 - - -
 
 
-Have fun! I hope you find it useful,
+Have fun with it! I hope you find it useful.
 
 Steve
