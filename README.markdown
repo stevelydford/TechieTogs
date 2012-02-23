@@ -25,7 +25,7 @@ This repository contains all the files you need to run the app. Simply download 
 
     All users have passwords of: test
 
-- You will need to enter you email account details into the relevant places in _AppStart.cshtml
+- You will need to enter your email account details into the relevant places in _AppStart.cshtml
 
 
 - - -
